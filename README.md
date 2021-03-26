@@ -1,5 +1,4 @@
 # CSS_grid_generator_-Grid_It-
 <h1>Site : <a href="https://raadhasan.github.io/CSS_grid_generator_-Grid_It-/">GridIt</a></h1>
-<img src="https://user-images.githubusercontent.com/72972913/112693214-4d1bc600-8e91-11eb-931f-d478ea443891.png/">
-
+![Screenshot (126)](https://user-images.githubusercontent.com/72972913/112693784-404ba200-8e92-11eb-84af-edf2a36c6621.png)
 <h3>Grid It was made to help front-end Web Developers grid their in a faster and easier way</h3>
